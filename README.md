@@ -1,4 +1,4 @@
-# Modernity Nomifactory CEu
+# Nomifactory CEu Modernity
 This texture pack orignally created by AstroTibs: https://www.curseforge.com/minecraft/texture-packs/modernity
 
 Fork of Modernity texture pack for Nomifactory CEu
